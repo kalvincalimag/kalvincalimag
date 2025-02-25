@@ -1,14 +1,17 @@
 ### 👋 Hi, I'm Kalvin!
 
-- 🎓 I'm a senior-year IT student and aspiring software engineer.
-- 💻 I'm honing my skills through various [projects](https://github.com/kalvincalimag?tab=repositories) as I prepare to join the workforce.
-- ✍️ I also share my learning journey on [Django Unleased](https://medium.com/django-unleashed) and my [Blog](https://medium.com/@kalvincalimag)
+- 👨‍💻 I'm a software engineer striving to build solutions that create meaningful impact.
+- 💵 I help build a platform that streamlines tax math and compliance for property funds.
+- 🖋️ I write and publish technical articles and tutorials in [Django Unleased](https://medium.com/django-unleashed) and my [Blog](https://medium.com/@kalvincalimag)
+- 🎓 I earned a 1.125 GWA in web development while leading multiple youth organizations.
+
 
 ### Get in touch
 
-- GitHub: [kalvincalimag](https://github.com/kalvincalimag)
 - Twitter: [@kalvincalimag_](https://twitter.com/kalvincalimag_)
+- Threads: [@kalvin.calimag](https://www.threads.net/@kalvin.calimag)
 - Email: calimag.kalvin.d@gmail.com
+
 
 ### Recent writings
 
