@@ -4,7 +4,7 @@
 
 - 💵 I help build a platform that streamlines tax math and compliance for property funds.
 - 🖋️ I write and publish technical articles and tutorials in [Django Unleased](https://medium.com/django-unleashed) and my [Blog](https://medium.com/@kalvincalimag)
-- 🎓 I earned a 1.125 GWA majoring in web development while leading multiple youth organizations.
+- 🎓 I earned a 1.156 GWA majoring in web development while leading multiple youth organizations.
 
 
 ### Get in touch
